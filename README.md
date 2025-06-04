@@ -58,7 +58,8 @@ int main() {
 
 ## OUTPUT
 
-![alt text](ex02-forkcheck.png)
+![image](https://github.com/user-attachments/assets/3defe8e4-d1c3-4b27-a019-63e4ee813866)
+
 
 
 
@@ -123,10 +124,11 @@ int main() {
 ```
 
 ## OUTPUT
-![alt text](w-and-e1.png)
-![alt text](w-and-e2.png)
-![alt text](w-and-e3.png)
-![alt text](w-and-e4.png)
+![image](https://github.com/user-attachments/assets/c0525d8d-5259-4366-8a4e-b66f80e13f94)
+![image](https://github.com/user-attachments/assets/2fd4ca0e-15c1-42c1-a19b-274a2fc579b3)
+![image](https://github.com/user-attachments/assets/eff5268c-5679-4e40-882e-557aba520504)
+![image](https://github.com/user-attachments/assets/1ebb1563-f77a-43cd-ac0c-21e3aad5bd61)
+
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
@@ -177,7 +179,8 @@ int main() {
 ```
 ## OUTPUT
 
-![alt text](execcheck2.png)
+![image](https://github.com/user-attachments/assets/6d78191d-feed-4014-982d-3c45f48d8975)
+
 
 # RESULT:
 
